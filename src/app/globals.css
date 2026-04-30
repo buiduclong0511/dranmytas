@@ -1,0 +1,126 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-gold: var(--gold);
+  --color-gold-deep: var(--gold-deep);
+  --color-cream: var(--cream);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-cormorant), Georgia, 'Times New Roman', serif;
+}
+
+:root {
+  /* Brand colors from dranmytas.com:
+     Primary forest green #003223, deep variants #1c3f44 #0b1f22,
+     Gold accent #d4af37 / #b68b2e, cream highlight #fff1a8 */
+  --background: #ffffff;
+  --foreground: #0b1f22;
+  --card: #ffffff;
+  --card-foreground: #0b1f22;
+  --popover: #ffffff;
+  --popover-foreground: #0b1f22;
+  --primary: #003223;
+  --primary-foreground: #fff1a8;
+  --secondary: #f3f1e9;
+  --secondary-foreground: #003223;
+  --muted: #f7f5ee;
+  --muted-foreground: #4a5b58;
+  --accent: #d4af37;
+  --accent-foreground: #0b1f22;
+  --destructive: #b20000;
+  --destructive-foreground: #ffffff;
+  --border: #e6dfca;
+  --input: #e6dfca;
+  --ring: #003223;
+  --gold: #d4af37;
+  --gold-deep: #b68b2e;
+  --cream: #fff1a8;
+  --radius: 0.625rem;
+}
+
+@layer base {
+  * {
+    border-color: var(--border);
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-display);
+    font-weight: 600;
+    letter-spacing: -0.005em;
+    line-height: 1.15;
+  }
+  h1 {
+    font-weight: 600;
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-7xl px-4 lg:px-8;
+  }
+  .prose-vn {
+    line-height: 1.75;
+  }
+  .prose-vn p {
+    margin-block: 1em;
+  }
+  .prose-vn h2 {
+    @apply mt-10 mb-4 text-2xl font-semibold;
+  }
+  .prose-vn h3 {
+    @apply mt-8 mb-3 text-xl font-semibold;
+  }
+  .prose-vn ul {
+    @apply my-4 list-disc pl-6;
+  }
+  .prose-vn ol {
+    @apply my-4 list-decimal pl-6;
+  }
+  .prose-vn a {
+    @apply text-primary underline underline-offset-4 hover:opacity-80;
+  }
+  .prose-vn img {
+    @apply my-6 rounded-lg;
+  }
+  .prose-vn blockquote {
+    @apply my-6 border-l-4 border-primary pl-4 italic text-muted-foreground;
+  }
+}
