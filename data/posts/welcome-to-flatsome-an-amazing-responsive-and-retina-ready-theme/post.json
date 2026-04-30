@@ -1,0 +1,339 @@
+{
+  "id": 4236,
+  "date": "2013-08-11T16:35:51",
+  "date_gmt": "2013-08-11T16:35:51",
+  "guid": {
+    "rendered": "http://localhost:8888/test/?p=474"
+  },
+  "modified": "2013-08-11T16:35:51",
+  "modified_gmt": "2013-08-11T16:35:51",
+  "slug": "welcome-to-flatsome-an-amazing-responsive-and-retina-ready-theme",
+  "status": "publish",
+  "type": "post",
+  "link": "https://dranmytas.com/welcome-to-flatsome-an-amazing-responsive-and-retina-ready-theme/",
+  "title": {
+    "rendered": "An Amazing responsive and Retina ready theme."
+  },
+  "content": {
+    "rendered": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed eleifend risus, sit amet porttitor massa. Ut vulputate felis at mauris ultrices sodales. Phasellus in leo ornare, vulputate purus eget, iaculis tellus. Donec sed laoreet orci. Praesent faucibus feugiat velit a iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi turpis mauris, consequat laoreet metus non, dictum fringilla sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla ornare malesuada ultricies. Nulla luctus velit diam, at lacinia odio aliquam nec. In adipiscing, arcu elementum dictum eleifend, mi velit sodales nisi, a semper tellus magna sed justo. Ut mauris velit, tristique id nulla eget, euismod consequat lacus. Vestibulum varius dapibus lacus et vestibulum.</p>\n<blockquote><p>Ut eu imperdiet arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras interdum porttitor quam at tempus. Sed quis rutrum lorem.</p></blockquote>\n<p>Ut eu imperdiet arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras interdum porttitor quam at tempus. Sed quis rutrum lorem. Mauris vitae dui ut neque pulvinar mattis. Mauris sed tincidunt nisi. Ut porta quis lorem at consectetur. Mauris elementum vulputate metus, ut cursus felis dictum non. Sed in nulla metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus at nunc eget ligula tristique scelerisque in et urna.</p>\n<p>Pellentesque imperdiet, nunc id scelerisque scelerisque, nisi arcu hendrerit leo, vel volutpat arcu mi in risus. Vestibulum iaculis molestie venenatis. Donec faucibus elit quis enim porta, id fringilla lectus feugiat. Sed et diam fermentum, elementum elit et, placerat nisi. Sed vehicula nibh sed tellus elementum condimentum. Fusce laoreet lorem ipsum, vitae aliquam arcu gravida gravida. Nunc eget tristique sem, eu ornare ligula.</p>\n<p>Pellentesque facilisis lobortis volutpat. Etiam non suscipit velit, vitae ornare eros. In hac habitasse platea dictumst. Phasellus eu auctor metus, et porta justo. Vivamus suscipit fermentum ante, eu dignissim orci. Proin faucibus quis orci a dictum. Nulla ac nibh neque. Curabitur eu justo massa.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed eleifend risus, sit amet porttitor massa. Ut vulputate felis at mauris ultrices sodales. Phasellus in leo ornare, vulputate purus eget, iaculis tellus. Donec sed laoreet orci. Praesent faucibus feugiat velit a iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos&#8230;.</p>\n",
+    "protected": false
+  },
+  "author": 4,
+  "featured_media": 4226,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "_acf_changed": false,
+    "_eb_attr": "",
+    "footnotes": ""
+  },
+  "categories": [
+    139
+  ],
+  "tags": [],
+  "class_list": [
+    "post-4236",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-style"
+  ],
+  "acf": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/posts/4236",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/users/4"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/comments?post=4236"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://dranmytas.com/wp-json/wp/v2/posts/4236/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/media/4226"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/media?parent=4236"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/categories?post=4236"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/tags?post=4236"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 4,
+        "name": "quanly",
+        "url": "",
+        "description": "",
+        "link": "https://dranmytas.com/author/quanly/",
+        "slug": "quanly",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/483df87a993b0230345864e4b82fee6723f7e1cb92f984130cc86634c0515563?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/483df87a993b0230345864e4b82fee6723f7e1cb92f984130cc86634c0515563?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/483df87a993b0230345864e4b82fee6723f7e1cb92f984130cc86634c0515563?s=96&d=mm&r=g"
+        },
+        "is_super_admin": true,
+        "woocommerce_meta": {
+          "variable_product_tour_shown": "",
+          "activity_panel_inbox_last_read": "",
+          "activity_panel_reviews_last_read": "",
+          "categories_report_columns": "",
+          "coupons_report_columns": "",
+          "customers_report_columns": "",
+          "orders_report_columns": "",
+          "products_report_columns": "",
+          "revenue_report_columns": "",
+          "taxes_report_columns": "",
+          "variations_report_columns": "",
+          "dashboard_sections": "",
+          "dashboard_chart_type": "",
+          "dashboard_chart_interval": "",
+          "dashboard_leaderboard_rows": "",
+          "order_attribution_install_banner_dismissed": "",
+          "scheduled_updates_promotion_notice_dismissed": "",
+          "homepage_layout": "",
+          "homepage_stats": "",
+          "task_list_tracked_started_tasks": "",
+          "android_app_banner_dismissed": "",
+          "launch_your_store_tour_hidden": "",
+          "coming_soon_banner_dismissed": ""
+        },
+        "acf": [],
+        "_links": {
+          "self": [
+            {
+              "href": "https://dranmytas.com/wp-json/wp/v2/users/4",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://dranmytas.com/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "id": 4226,
+        "date": "2016-08-09T13:43:25",
+        "slug": "dummy-image-1",
+        "type": "attachment",
+        "link": "https://dranmytas.com/dummy-image-1/",
+        "title": {
+          "rendered": "Dummy Image 1"
+        },
+        "author": 4,
+        "featured_media": 0,
+        "acf": [],
+        "caption": {
+          "rendered": ""
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/jpeg",
+        "media_details": {
+          "width": 400,
+          "height": 260,
+          "file": "2016/08/dummy-1.jpg",
+          "filesize": 2440,
+          "sizes": {
+            "medium": {
+              "file": "dummy-1-300x195.jpg",
+              "width": 300,
+              "height": 195,
+              "filesize": 1740,
+              "mime_type": "image/jpeg",
+              "source_url": "https://dranmytas.com/wp-content/uploads/2016/08/dummy-1-300x195.jpg"
+            },
+            "thumbnail": {
+              "file": "dummy-1-150x150.jpg",
+              "width": 150,
+              "height": 150,
+              "filesize": 1131,
+              "mime_type": "image/jpeg",
+              "source_url": "https://dranmytas.com/wp-content/uploads/2016/08/dummy-1-150x150.jpg"
+            },
+            "woocommerce_gallery_thumbnail": {
+              "file": "dummy-1-100x100.jpg",
+              "width": 100,
+              "height": 100,
+              "filesize": 912,
+              "mime_type": "image/jpeg",
+              "source_url": "https://dranmytas.com/wp-content/uploads/2016/08/dummy-1-100x100.jpg"
+            },
+            "full": {
+              "file": "dummy-1.jpg",
+              "width": 400,
+              "height": 260,
+              "mime_type": "image/jpeg",
+              "source_url": "https://dranmytas.com/wp-content/uploads/2016/08/dummy-1.jpg"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0",
+            "keywords": []
+          }
+        },
+        "source_url": "https://dranmytas.com/wp-content/uploads/2016/08/dummy-1.jpg",
+        "_links": {
+          "self": [
+            {
+              "href": "https://dranmytas.com/wp-json/wp/v2/media/4226",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://dranmytas.com/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://dranmytas.com/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://dranmytas.com/wp-json/wp/v2/users/4"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://dranmytas.com/wp-json/wp/v2/comments?post=4226"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 139,
+          "link": "https://dranmytas.com/style/",
+          "name": "Style",
+          "slug": "style",
+          "taxonomy": "category",
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/categories/139",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/posts?categories=139"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  }
+}

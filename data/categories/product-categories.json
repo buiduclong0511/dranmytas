@@ -1,0 +1,112 @@
+[
+  {
+    "id": 111,
+    "name": "Bảo vệ da",
+    "slug": "bao-ve-da",
+    "description": "",
+    "parent": 0,
+    "count": 1,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://dranmytas.com/product-category/bao-ve-da/"
+  },
+  {
+    "id": 32,
+    "name": "Chăm sóc da mụn",
+    "slug": "cham-soc-da-mun",
+    "description": "",
+    "parent": 0,
+    "count": 17,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://dranmytas.com/product-category/cham-soc-da-mun/"
+  },
+  {
+    "id": 33,
+    "name": "Chăm sóc da nám",
+    "slug": "cham-soc-da-nam",
+    "description": "",
+    "parent": 0,
+    "count": 2,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://dranmytas.com/product-category/cham-soc-da-nam/"
+  },
+  {
+    "id": 109,
+    "name": "Chăm sóc vùng da mắt",
+    "slug": "cham-soc-vung-da-mat",
+    "description": "",
+    "parent": 0,
+    "count": 1,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://dranmytas.com/product-category/cham-soc-vung-da-mat/"
+  },
+  {
+    "id": 108,
+    "name": "Dưỡng ẩm căng bóng",
+    "slug": "duong-am-cang-bong",
+    "description": "",
+    "parent": 0,
+    "count": 2,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://dranmytas.com/product-category/duong-am-cang-bong/"
+  },
+  {
+    "id": 34,
+    "name": "Hỗ trợ phục hồi",
+    "slug": "ho-tro-phuc-hoi",
+    "description": "",
+    "parent": 0,
+    "count": 4,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://dranmytas.com/product-category/ho-tro-phuc-hoi/"
+  },
+  {
+    "id": 110,
+    "name": "Hỗ trợ tái tạo trẻ hóa",
+    "slug": "ho-tro-tai-tao-tre-hoa",
+    "description": "",
+    "parent": 0,
+    "count": 6,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://dranmytas.com/product-category/ho-tro-tai-tao-tre-hoa/"
+  },
+  {
+    "id": 107,
+    "name": "Làm sạch",
+    "slug": "san-pham-lam-sach",
+    "description": "",
+    "parent": 0,
+    "count": 1,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://dranmytas.com/product-category/san-pham-lam-sach/"
+  },
+  {
+    "id": 126,
+    "name": "Sản phẩm DR.ANMYTAS",
+    "slug": "san-pham-dr-anmytas",
+    "description": "",
+    "parent": 0,
+    "count": 26,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://dranmytas.com/product-category/san-pham-dr-anmytas/"
+  },
+  {
+    "id": 35,
+    "name": "Sản Phẩm Khác",
+    "slug": "san-pham-khac",
+    "description": "",
+    "parent": 0,
+    "count": 4,
+    "image": null,
+    "review_count": 0,
+    "permalink": "https://dranmytas.com/product-category/san-pham-khac/"
+  }
+]

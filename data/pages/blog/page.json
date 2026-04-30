@@ -1,0 +1,97 @@
+{
+  "id": 4306,
+  "date": "2013-08-11T19:17:44",
+  "date_gmt": "2013-08-11T19:17:44",
+  "guid": {
+    "rendered": "http://localhost:8888/test/?page_id=530"
+  },
+  "modified": "2013-08-11T19:17:44",
+  "modified_gmt": "2013-08-11T19:17:44",
+  "slug": "blog",
+  "status": "publish",
+  "type": "page",
+  "link": "https://dranmytas.com/blog/",
+  "title": {
+    "rendered": "Blog"
+  },
+  "content": {
+    "rendered": "<p>Take a look here on how to setup your blog page: http://docs.uxthemes.com/article/243-how-to-setup-your-blog-page</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Take a look here on how to setup your blog page: http://docs.uxthemes.com/article/243-how-to-setup-your-blog-page</p>\n",
+    "protected": false
+  },
+  "author": 4,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false,
+    "_eb_attr": "",
+    "footnotes": ""
+  },
+  "class_list": [
+    "post-4306",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "acf": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/pages/4306",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/users/4"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/comments?post=4306"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://dranmytas.com/wp-json/wp/v2/pages/4306/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/media?parent=4306"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

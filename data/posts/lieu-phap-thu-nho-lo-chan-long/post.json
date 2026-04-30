@@ -1,0 +1,337 @@
+{
+  "id": 719,
+  "date": "2024-05-06T02:13:48",
+  "date_gmt": "2024-05-06T02:13:48",
+  "guid": {
+    "rendered": "https://dranmytas.com/?p=719"
+  },
+  "modified": "2024-05-06T02:13:48",
+  "modified_gmt": "2024-05-06T02:13:48",
+  "slug": "lieu-phap-thu-nho-lo-chan-long",
+  "status": "publish",
+  "type": "post",
+  "link": "https://dranmytas.com/lieu-phap-thu-nho-lo-chan-long/",
+  "title": {
+    "rendered": "Liệu Pháp Thu Nhỏ Lỗ Chân Lông"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "_acf_changed": false,
+    "_eb_attr": "",
+    "footnotes": ""
+  },
+  "categories": [
+    40
+  ],
+  "tags": [],
+  "class_list": [
+    "post-719",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-tri-lieu-benh-ly-ve-da"
+  ],
+  "acf": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/posts/719",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/comments?post=719"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://dranmytas.com/wp-json/wp/v2/posts/719/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/media?parent=719"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/categories?post=719"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/tags?post=719"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 1,
+        "name": "admin",
+        "url": "https://dranmytas.com",
+        "description": "",
+        "link": "https://dranmytas.com/author/admin/",
+        "slug": "admin",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/6559eb5a12ae21289265da6535e7c0b0c1bd5df4ee335be7130f9e7b1aa57d0f?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/6559eb5a12ae21289265da6535e7c0b0c1bd5df4ee335be7130f9e7b1aa57d0f?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/6559eb5a12ae21289265da6535e7c0b0c1bd5df4ee335be7130f9e7b1aa57d0f?s=96&d=mm&r=g"
+        },
+        "is_super_admin": true,
+        "woocommerce_meta": {
+          "variable_product_tour_shown": "",
+          "activity_panel_inbox_last_read": "",
+          "activity_panel_reviews_last_read": "",
+          "categories_report_columns": "",
+          "coupons_report_columns": "",
+          "customers_report_columns": "",
+          "orders_report_columns": "",
+          "products_report_columns": "",
+          "revenue_report_columns": "",
+          "taxes_report_columns": "",
+          "variations_report_columns": "",
+          "dashboard_sections": "",
+          "dashboard_chart_type": "",
+          "dashboard_chart_interval": "",
+          "dashboard_leaderboard_rows": "",
+          "order_attribution_install_banner_dismissed": "",
+          "scheduled_updates_promotion_notice_dismissed": "",
+          "homepage_layout": "",
+          "homepage_stats": "",
+          "task_list_tracked_started_tasks": "",
+          "android_app_banner_dismissed": "",
+          "launch_your_store_tour_hidden": "",
+          "coming_soon_banner_dismissed": ""
+        },
+        "acf": [],
+        "_links": {
+          "self": [
+            {
+              "href": "https://dranmytas.com/wp-json/wp/v2/users/1",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://dranmytas.com/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "replies": [
+      [
+        {
+          "id": 78,
+          "parent": 77,
+          "author": 3,
+          "author_name": "Trần Nhung",
+          "author_url": "http://dranmytas.com",
+          "date": "2025-03-05T03:31:01",
+          "content": {
+            "rendered": "<p>Dr.Anmytas chào anh chị ạ. Anh chị vào link dưới đây để được tư vấn và biết thêm chi tiết ạ.<br />\n<a href=\"https://www.facebook.com/Dr.Anmytas\" rel=\"nofollow ugc\">https://www.facebook.com/Dr.Anmytas</a></p>\n"
+          },
+          "link": "https://dranmytas.com/lieu-phap-thu-nho-lo-chan-long/#comment-78",
+          "type": "comment",
+          "author_avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/ddea752efbfe9c27b24167c5daf4063e5311c3f229f447a6b5929b828bae993a?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/ddea752efbfe9c27b24167c5daf4063e5311c3f229f447a6b5929b828bae993a?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/ddea752efbfe9c27b24167c5daf4063e5311c3f229f447a6b5929b828bae993a?s=96&d=mm&r=g"
+          },
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/comments/78",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/comments"
+              }
+            ],
+            "author": [
+              {
+                "embeddable": true,
+                "href": "https://dranmytas.com/wp-json/wp/v2/users/3"
+              }
+            ],
+            "up": [
+              {
+                "embeddable": true,
+                "post_type": "post",
+                "href": "https://dranmytas.com/wp-json/wp/v2/posts/719"
+              }
+            ],
+            "in-reply-to": [
+              {
+                "embeddable": true,
+                "href": "https://dranmytas.com/wp-json/wp/v2/comments/77"
+              }
+            ]
+          }
+        },
+        {
+          "id": 77,
+          "parent": 0,
+          "author": 0,
+          "author_name": "Nguyễn Bảy",
+          "author_url": "",
+          "date": "2025-03-03T01:54:56",
+          "content": {
+            "rendered": "<p>tôi muốn tư vấn thu nhỏ lỗ chân lông</p>\n"
+          },
+          "link": "https://dranmytas.com/lieu-phap-thu-nho-lo-chan-long/#comment-77",
+          "type": "comment",
+          "author_avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/c3e034736ffbcb7039c8568830854741b54a7a9ca760d0d9ce43588c25f25386?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/c3e034736ffbcb7039c8568830854741b54a7a9ca760d0d9ce43588c25f25386?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/c3e034736ffbcb7039c8568830854741b54a7a9ca760d0d9ce43588c25f25386?s=96&d=mm&r=g"
+          },
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/comments/77",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/comments"
+              }
+            ],
+            "up": [
+              {
+                "embeddable": true,
+                "post_type": "post",
+                "href": "https://dranmytas.com/wp-json/wp/v2/posts/719"
+              }
+            ],
+            "children": [
+              {
+                "embeddable": true,
+                "href": "https://dranmytas.com/wp-json/wp/v2/comments?parent=77"
+              }
+            ]
+          }
+        }
+      ]
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 40,
+          "link": "https://dranmytas.com/dich-vu/tri-lieu-benh-ly-ve-da/",
+          "name": "Trị Liệu Bệnh Lý Về Da",
+          "slug": "tri-lieu-benh-ly-ve-da",
+          "taxonomy": "category",
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/categories/40",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "up": [
+              {
+                "embeddable": true,
+                "href": "https://dranmytas.com/wp-json/wp/v2/categories/42"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/posts?categories=40"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "id": 715,
+  "date": "2024-05-06T02:14:14",
+  "date_gmt": "2024-05-06T02:14:14",
+  "guid": {
+    "rendered": "https://dranmytas.com/?p=715"
+  },
+  "modified": "2024-05-06T02:14:14",
+  "modified_gmt": "2024-05-06T02:14:14",
+  "slug": "tri-lieu-seo-ro",
+  "status": "publish",
+  "type": "post",
+  "link": "https://dranmytas.com/tri-lieu-seo-ro/",
+  "title": {
+    "rendered": "Trị Liệu Sẹo Rỗ"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "_acf_changed": false,
+    "_eb_attr": "",
+    "footnotes": ""
+  },
+  "categories": [
+    40
+  ],
+  "tags": [],
+  "class_list": [
+    "post-715",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-tri-lieu-benh-ly-ve-da"
+  ],
+  "acf": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/posts/715",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/comments?post=715"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://dranmytas.com/wp-json/wp/v2/posts/715/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/media?parent=715"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/categories?post=715"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/tags?post=715"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 1,
+        "name": "admin",
+        "url": "https://dranmytas.com",
+        "description": "",
+        "link": "https://dranmytas.com/author/admin/",
+        "slug": "admin",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/6559eb5a12ae21289265da6535e7c0b0c1bd5df4ee335be7130f9e7b1aa57d0f?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/6559eb5a12ae21289265da6535e7c0b0c1bd5df4ee335be7130f9e7b1aa57d0f?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/6559eb5a12ae21289265da6535e7c0b0c1bd5df4ee335be7130f9e7b1aa57d0f?s=96&d=mm&r=g"
+        },
+        "is_super_admin": true,
+        "woocommerce_meta": {
+          "variable_product_tour_shown": "",
+          "activity_panel_inbox_last_read": "",
+          "activity_panel_reviews_last_read": "",
+          "categories_report_columns": "",
+          "coupons_report_columns": "",
+          "customers_report_columns": "",
+          "orders_report_columns": "",
+          "products_report_columns": "",
+          "revenue_report_columns": "",
+          "taxes_report_columns": "",
+          "variations_report_columns": "",
+          "dashboard_sections": "",
+          "dashboard_chart_type": "",
+          "dashboard_chart_interval": "",
+          "dashboard_leaderboard_rows": "",
+          "order_attribution_install_banner_dismissed": "",
+          "scheduled_updates_promotion_notice_dismissed": "",
+          "homepage_layout": "",
+          "homepage_stats": "",
+          "task_list_tracked_started_tasks": "",
+          "android_app_banner_dismissed": "",
+          "launch_your_store_tour_hidden": "",
+          "coming_soon_banner_dismissed": ""
+        },
+        "acf": [],
+        "_links": {
+          "self": [
+            {
+              "href": "https://dranmytas.com/wp-json/wp/v2/users/1",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://dranmytas.com/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 40,
+          "link": "https://dranmytas.com/dich-vu/tri-lieu-benh-ly-ve-da/",
+          "name": "Trị Liệu Bệnh Lý Về Da",
+          "slug": "tri-lieu-benh-ly-ve-da",
+          "taxonomy": "category",
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/categories/40",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "up": [
+              {
+                "embeddable": true,
+                "href": "https://dranmytas.com/wp-json/wp/v2/categories/42"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/posts?categories=40"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": 584,
+  "date": "2024-05-02T15:17:33",
+  "date_gmt": "2024-05-02T15:17:33",
+  "guid": {
+    "rendered": "https://dranmytas.com/shop/"
+  },
+  "modified": "2025-04-09T09:49:25",
+  "modified_gmt": "2025-04-09T09:49:25",
+  "slug": "shop",
+  "status": "publish",
+  "type": "page",
+  "link": "https://dranmytas.com/shop/",
+  "title": {
+    "rendered": "DR.ANMYTAS"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false,
+    "_eb_attr": "",
+    "footnotes": ""
+  },
+  "class_list": [
+    "post-584",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "acf": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/pages/584",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/comments?post=584"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://dranmytas.com/wp-json/wp/v2/pages/584/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/media?parent=584"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

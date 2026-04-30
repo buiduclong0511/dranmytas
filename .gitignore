@@ -13,10 +13,18 @@ node_modules/
 out/
 build/
 
-# Crawled data + images
-data/
-public/images/products/
-public/images/posts/
+# Crawled images bên trong data/ (duplicate — đã sync sang public/images/)
+data/products/*/images/
+data/posts/*/images/
+data/pages/*/images/
+
+# Private — leads thu thập từ contact form
+data/leads/
+
+# Crawler runtime
+data/manifest.json
+crawler/node_modules/
+crawler/crawl.log
 
 # Logs
 npm-debug.log*
@@ -40,3 +48,6 @@ yarn-error.log*
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
+
+# Vercel
+.vercel/

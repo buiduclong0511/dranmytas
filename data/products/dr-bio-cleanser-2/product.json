@@ -1,0 +1,132 @@
+{
+  "id": 2432,
+  "name": "DR.BIO CLEANSER-2",
+  "slug": "dr-bio-cleanser-2",
+  "parent": 0,
+  "type": "simple",
+  "variation": "",
+  "permalink": "https://dranmytas.com/product/dr-bio-cleanser-2/",
+  "sku": "",
+  "short_description": "<p>Dòng sản phẩm làm sạch với chi phí bình dân cho người mới bắt đầu</p>",
+  "description": "<h2>NGUỒN GỐC NGUYÊN LIỆU CHÍNH</h2>\n<ul>\n<li>Sáp SE đến từ Cisme &#8211; Ý</li>\n<li>Alkan đến từ Seppic &#8211; Pháp</li>\n</ul>\n<h2>ƯU ĐIỂM SO VỚI SẢN PHẨM CÙNG GIÁ:</h2>\n<ul>\n<li>Độ pH lý tưởng 5.5 dành cho mọi loại da</li>\n</ul>\n<h2>LỢI ÍCH</h2>\n<h3>1. Làm sạch da hiệu quả</h3>\n<p>Dr.Bio Cleanser-2 chứa các hoạt chất làm sạch dịu nhẹ, không chứa chất tẩy mạnh giúp loại bỏ bụi bẩn và dầu thừa và lớp trang điểm một cách nhẹ nhàng mà không làm tổn thương lớp màng lipid tự nhiên trên bề mặt da.</p>\n<h3>2. Độ pH 5.5 bảo vệ hàng rào da tự nhiên</h3>\n<p>Với độ pH 5.5, sữa rửa mặt sinh học Dr.Bio Cleanser-2 giúp rửa trôi mọi bụi bẩn trên da mà không làm tổn thương hàng rào da. Sản phẩm giữ cho làn da ở trạng thái cân bằng, bảo vệ lớp màng tự nhiên, chống lại vi khuẩn và các tác nhân gây hại từ môi trường.</p>\n<h3>3. Làm dịu và làm mềm da</h3>\n<p>Hỗ trợ làm dịu da, giảm kích ứng hoặc nhạy cảm, giảm thiểu tình trạng mẩn đỏ, căng rát.</p>\n<h3>4. Phù hợp cho mọi loại da</h3>\n<p>Không chứa paraben, không chất tẩy mạnh, không Silicon, sản phẩm phù hợp với mọi loại da, kể cả da nhạy cảm. Sản phẩm phù hợp với mọi loại da, giảm thiểu nguy cơ phản ứng dị ứng.</p>\n<h3>5. Tạo nền tảng tốt cho các bước dưỡng da sau</h3>\n<p>Sau khi làn da được làm sạch tốt, da sẽ dễ dàng hấp thụ các dưỡng chất sau đó và phát huy tác dụng tối ưu nhất. Sửa rửa mặt với độ pH quá cao/thấp chứa nhiều chất tẩy có khả năng gây tổn thương hàng rào khiến da kích ứng, đỏ rát<br />\nVới độ pH 5.5. của sửa rửa mặt Dr.Bio Cleanser-2 giúp bảo vệ hàng rào da, giúp da căng bóng</p>",
+  "on_sale": false,
+  "prices": {
+    "price": "0",
+    "regular_price": "0",
+    "sale_price": "0",
+    "price_range": null,
+    "currency_code": "VND",
+    "currency_symbol": "₫",
+    "currency_minor_unit": 0,
+    "currency_decimal_separator": ",",
+    "currency_thousand_separator": ".",
+    "currency_prefix": "",
+    "currency_suffix": " ₫"
+  },
+  "price_html": "",
+  "average_rating": "0",
+  "review_count": 0,
+  "images": [
+    {
+      "id": 2560,
+      "src": "https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2.jpg",
+      "thumbnail": "https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2-600x600.jpg",
+      "srcset": "https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2.jpg 1200w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2-300x300.jpg 300w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2-1024x1024.jpg 1024w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2-150x150.jpg 150w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2-768x768.jpg 768w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2-600x600.jpg 600w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2-100x100.jpg 100w",
+      "sizes": "(max-width: 1200px) 100vw, 1200px",
+      "thumbnail_srcset": "https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2-600x600.jpg 600w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2-300x300.jpg 300w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2-1024x1024.jpg 1024w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2-150x150.jpg 150w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2-768x768.jpg 768w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2-100x100.jpg 100w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2.jpg 1200w",
+      "thumbnail_sizes": "(max-width: 600px) 100vw, 600px",
+      "name": "dr bi o 2",
+      "alt": ""
+    },
+    {
+      "id": 2559,
+      "src": "https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2.2.jpg",
+      "thumbnail": "https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2.2-600x600.jpg",
+      "srcset": "https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2.2.jpg 1200w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2.2-300x300.jpg 300w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2.2-1024x1024.jpg 1024w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2.2-150x150.jpg 150w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2.2-768x768.jpg 768w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2.2-600x600.jpg 600w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2.2-100x100.jpg 100w",
+      "sizes": "(max-width: 1200px) 100vw, 1200px",
+      "thumbnail_srcset": "https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2.2-600x600.jpg 600w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2.2-300x300.jpg 300w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2.2-1024x1024.jpg 1024w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2.2-150x150.jpg 150w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2.2-768x768.jpg 768w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2.2-100x100.jpg 100w, https://dranmytas.com/wp-content/uploads/2025/04/dr-bi-o-2.2.jpg 1200w",
+      "thumbnail_sizes": "(max-width: 600px) 100vw, 600px",
+      "name": "dr bi o 2.2",
+      "alt": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": 126,
+      "name": "Sản phẩm DR.ANMYTAS",
+      "slug": "san-pham-dr-anmytas",
+      "link": "https://dranmytas.com/product-category/san-pham-dr-anmytas/"
+    }
+  ],
+  "tags": [
+    {
+      "id": 115,
+      "name": "A",
+      "slug": "a",
+      "link": "https://dranmytas.com/product-tag/a/"
+    }
+  ],
+  "brands": [
+    {
+      "id": 105,
+      "name": "Dr Anmytas",
+      "slug": "dr-anmytas",
+      "link": "https://dranmytas.com/thuong-hieu/dr-anmytas/"
+    }
+  ],
+  "attributes": [],
+  "variations": [],
+  "grouped_products": [],
+  "has_options": false,
+  "is_purchasable": false,
+  "is_in_stock": true,
+  "is_on_backorder": false,
+  "low_stock_remaining": null,
+  "stock_availability": {
+    "text": "",
+    "class": "in-stock"
+  },
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "formatted_weight": "Không áp dụng",
+  "formatted_dimensions": "Không áp dụng",
+  "add_to_cart": {
+    "text": "Đọc tiếp",
+    "description": "Đọc thêm về &ldquo;DR.BIO CLEANSER-2&rdquo;",
+    "url": "https://dranmytas.com/product/dr-bio-cleanser-2/",
+    "single_text": "Thêm vào giỏ hàng",
+    "minimum": 1,
+    "maximum": 9999,
+    "multiple_of": 1
+  },
+  "is_password_protected": false,
+  "extensions": {},
+  "_links": {
+    "self": [
+      {
+        "href": "https://dranmytas.com/wp-json/wc/store/v1/products/2432",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://dranmytas.com/wp-json/wc/store/v1/products"
+      }
+    ],
+    "related": [
+      {
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wc/store/v1/products?related=2432&per_page=10"
+      }
+    ]
+  }
+}

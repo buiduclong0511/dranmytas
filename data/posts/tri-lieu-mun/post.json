@@ -1,0 +1,313 @@
+{
+  "id": 760,
+  "date": "2024-05-06T02:38:04",
+  "date_gmt": "2024-05-06T02:38:04",
+  "guid": {
+    "rendered": "https://dranmytas.com/?p=760"
+  },
+  "modified": "2024-05-06T02:38:04",
+  "modified_gmt": "2024-05-06T02:38:04",
+  "slug": "tri-lieu-mun",
+  "status": "publish",
+  "type": "post",
+  "link": "https://dranmytas.com/tri-lieu-mun/",
+  "title": {
+    "rendered": "Trị Liệu Mụn"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "_acf_changed": false,
+    "_eb_attr": "",
+    "footnotes": ""
+  },
+  "categories": [
+    41
+  ],
+  "tags": [],
+  "class_list": [
+    "post-760",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-dao-tao-post"
+  ],
+  "acf": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/posts/760",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/comments?post=760"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://dranmytas.com/wp-json/wp/v2/posts/760/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://dranmytas.com/wp-json/wp/v2/media?parent=760"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/categories?post=760"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://dranmytas.com/wp-json/wp/v2/tags?post=760"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 1,
+        "name": "admin",
+        "url": "https://dranmytas.com",
+        "description": "",
+        "link": "https://dranmytas.com/author/admin/",
+        "slug": "admin",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/6559eb5a12ae21289265da6535e7c0b0c1bd5df4ee335be7130f9e7b1aa57d0f?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/6559eb5a12ae21289265da6535e7c0b0c1bd5df4ee335be7130f9e7b1aa57d0f?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/6559eb5a12ae21289265da6535e7c0b0c1bd5df4ee335be7130f9e7b1aa57d0f?s=96&d=mm&r=g"
+        },
+        "is_super_admin": true,
+        "woocommerce_meta": {
+          "variable_product_tour_shown": "",
+          "activity_panel_inbox_last_read": "",
+          "activity_panel_reviews_last_read": "",
+          "categories_report_columns": "",
+          "coupons_report_columns": "",
+          "customers_report_columns": "",
+          "orders_report_columns": "",
+          "products_report_columns": "",
+          "revenue_report_columns": "",
+          "taxes_report_columns": "",
+          "variations_report_columns": "",
+          "dashboard_sections": "",
+          "dashboard_chart_type": "",
+          "dashboard_chart_interval": "",
+          "dashboard_leaderboard_rows": "",
+          "order_attribution_install_banner_dismissed": "",
+          "scheduled_updates_promotion_notice_dismissed": "",
+          "homepage_layout": "",
+          "homepage_stats": "",
+          "task_list_tracked_started_tasks": "",
+          "android_app_banner_dismissed": "",
+          "launch_your_store_tour_hidden": "",
+          "coming_soon_banner_dismissed": ""
+        },
+        "acf": [],
+        "_links": {
+          "self": [
+            {
+              "href": "https://dranmytas.com/wp-json/wp/v2/users/1",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://dranmytas.com/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "replies": [
+      [
+        {
+          "id": 20,
+          "parent": 0,
+          "author": 0,
+          "author_name": "Vũ Thị Quyên",
+          "author_url": "",
+          "date": "2024-12-23T10:45:23",
+          "content": {
+            "rendered": "<p>giờ mới bắt đầu dùng chưa có kết quả</p>\n"
+          },
+          "link": "https://dranmytas.com/tri-lieu-mun/#comment-20",
+          "type": "comment",
+          "author_avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/10359a72ee0a14da3f367e90e1bf46325b9da1f6b66dd7b52bd445d09dfe58c4?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/10359a72ee0a14da3f367e90e1bf46325b9da1f6b66dd7b52bd445d09dfe58c4?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/10359a72ee0a14da3f367e90e1bf46325b9da1f6b66dd7b52bd445d09dfe58c4?s=96&d=mm&r=g"
+          },
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/comments/20",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/comments"
+              }
+            ],
+            "up": [
+              {
+                "embeddable": true,
+                "post_type": "post",
+                "href": "https://dranmytas.com/wp-json/wp/v2/posts/760"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "parent": 0,
+          "author": 0,
+          "author_name": "Lê Vi",
+          "author_url": "",
+          "date": "2024-11-05T08:54:01",
+          "content": {
+            "rendered": "<p>Da e bị mụn ẩn và mụn viêm và thâm sau mụn</p>\n"
+          },
+          "link": "https://dranmytas.com/tri-lieu-mun/#comment-9",
+          "type": "comment",
+          "author_avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/585a4946e1cc189e824dac32caf0b423756e4ae1e5840df0f11eccd1817c7f26?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/585a4946e1cc189e824dac32caf0b423756e4ae1e5840df0f11eccd1817c7f26?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/585a4946e1cc189e824dac32caf0b423756e4ae1e5840df0f11eccd1817c7f26?s=96&d=mm&r=g"
+          },
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/comments/9",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/comments"
+              }
+            ],
+            "up": [
+              {
+                "embeddable": true,
+                "post_type": "post",
+                "href": "https://dranmytas.com/wp-json/wp/v2/posts/760"
+              }
+            ]
+          }
+        }
+      ]
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 41,
+          "link": "https://dranmytas.com/dao-tao-post/",
+          "name": "Đào Tạo",
+          "slug": "dao-tao-post",
+          "taxonomy": "category",
+          "acf": [],
+          "_links": {
+            "self": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/categories/41",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://dranmytas.com/wp-json/wp/v2/posts?categories=41"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  }
+}
