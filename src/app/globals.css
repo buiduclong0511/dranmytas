@@ -62,6 +62,46 @@
   --radius: 0.625rem;
 }
 
+@keyframes float-y {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-8px); }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+@keyframes pulse-soft {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
+}
+
+@layer utilities {
+  .animate-float {
+    animation: float-y 4s ease-in-out infinite;
+  }
+  .animate-float-slow {
+    animation: float-y 6s ease-in-out infinite;
+  }
+  .animate-shimmer {
+    background-size: 200% auto;
+    animation: shimmer 3s linear infinite;
+  }
+  .animate-pulse-soft {
+    animation: pulse-soft 2.4s ease-in-out infinite;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-float,
+  .animate-float-slow,
+  .animate-shimmer,
+  .animate-pulse-soft {
+    animation: none !important;
+  }
+}
+
 @layer base {
   * {
     border-color: var(--border);
