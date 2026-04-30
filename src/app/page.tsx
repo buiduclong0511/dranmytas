@@ -21,7 +21,6 @@ const HERO_SLIDES: SlideItem[] = [
     primaryCta: { label: 'Khám phá sản phẩm', href: '/san-pham' },
     secondaryCta: { label: 'Liên hệ tư vấn', href: '/lien-he' },
     align: 'left',
-    textColor: 'light',
   },
   {
     src: '/images/slides/slide-1.jpg',
@@ -31,7 +30,6 @@ const HERO_SLIDES: SlideItem[] = [
     subtitle: 'SWT-7™, Vitamin B5, Hyaluronic Acid 2%, Retinol bền cấu trúc.',
     primaryCta: { label: 'Xem sản phẩm', href: '/san-pham' },
     align: 'left',
-    textColor: 'light',
   },
   {
     src: '/images/slides/slide-3.jpg',
@@ -41,7 +39,6 @@ const HERO_SLIDES: SlideItem[] = [
     subtitle: 'Chương trình đào tạo theo chuẩn quốc tế dành cho chuyên viên skincare Việt.',
     primaryCta: { label: 'Tìm hiểu chương trình', href: '/dao-tao' },
     align: 'left',
-    textColor: 'light',
   },
   {
     src: '/images/slides/slide-2.jpg',
@@ -51,7 +48,6 @@ const HERO_SLIDES: SlideItem[] = [
     subtitle: 'Quyền lợi cao cấp dành cho khách hàng thân thiết của Dr.Anmytas.',
     primaryCta: { label: 'Xem quyền lợi', href: '/goi-vip' },
     align: 'left',
-    textColor: 'light',
   },
 ];
 
